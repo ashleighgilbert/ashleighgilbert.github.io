@@ -1,0 +1,24 @@
+/*html skeleton*/
+<html>
+ <head></head>
+ <body>
+  <div></div> /*container divides page into sections*/
+ </body>
+ <footer></footer>
+</html>
+
+<id=""> /*id; specify content*/
+<p></p> /*paragraphs contain block of text*/
+<span></span> /*contain short pieces of text, separate small piece of content in para*/
+<em></em> /*italic text*/ <strong></strong> /*bold text*/
+<br></br> /*line break*/
+<ul> /*unordered list: uses bulletpoint*/
+  <li></li> /*list item*/
+</ul>
+<ol> /*ordered list: uses numbers*/
+  <li></li>
+</ol>
+<img src="---.jpg"/> /*adds an image*/
+<img src="#" alt=""/> /*adds alt description*/
+<video src="myVideo.mp4" width="" height="" controls>
+  video not 
